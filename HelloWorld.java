@@ -2,6 +2,7 @@ package randomTask;
 
 public class HelloWorld {
 	String Hello() {
+		System.out.println("Hello from cloned repo");
 		return "Hello";
 	}
 
